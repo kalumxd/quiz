@@ -15,3 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Quiz Duolingo é um projeto onde se faz perguntas em inglês e você tem que traduzir obtendo 4 opções mas apenas 1 é correta!# quiz_duolingo
+# quiz_duolingo
